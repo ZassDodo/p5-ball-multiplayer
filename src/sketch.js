@@ -49,7 +49,7 @@ socket.onopen = () => {
 }
 
 function setup() {
-  createCanvas(1000, 500)
+  createCanvas(2000, 1000)
   background(0)
 }
 
